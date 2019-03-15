@@ -4,7 +4,7 @@
  *    
  *    Author: Stefano Capezzone
  *    Version: 1.0
- *    Corso Professionale di arduino Avanzato
+ *    Prototipo dimostrativo per ArduinoDay19
  *    
  */
 
